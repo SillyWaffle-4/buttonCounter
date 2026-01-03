@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/ButtonCounter/', // <--- ADD THIS LINE (use your exact repo name)
+  base: '/buttonCounter/', // <--- ADD THIS LINE (use your exact repo name)
 })
